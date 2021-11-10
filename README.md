@@ -12,4 +12,4 @@ GASとMessagingAPIで実装されています
 ４. スクリプトエディタでトリガーの時間設定で好きな実行時間帯を設定します。
 
 不明な点はぜひTwitterでお気軽にお尋ねください！
-＠benao_blog
+＠benao_python
